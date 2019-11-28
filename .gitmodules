@@ -1,6 +1,0 @@
-[submodule "lab7"]
-	path = lab7
-	url = https://github.com/cmldk/MovieBrowser.git
-[submodule "lab8"]
-	path = lab8
-	url = https://github.com/cmldk/TicTacToeMVP.git
