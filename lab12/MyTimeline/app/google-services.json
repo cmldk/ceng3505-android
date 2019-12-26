@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616244306590",
+    "firebase_url": "https://mytagram-272d3.firebaseio.com",
+    "project_id": "mytagram-272d3",
+    "storage_bucket": "mytagram-272d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616244306590:android:aa211aa0caac5319df518f",
+        "android_client_info": {
+          "package_name": "com.example.mytagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616244306590-lmrqv29i7hcjakd59q8qfse7g73u022s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHpdva1E5twR5WFKODOW4GbUify6A7b1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616244306590-lmrqv29i7hcjakd59q8qfse7g73u022s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
